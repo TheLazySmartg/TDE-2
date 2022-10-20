@@ -68,9 +68,25 @@ import random
 
 # Exercicio 5
 
+# vetor = []
+# vetor1 = []
+# for i in range(0, 10):
+#     n = int(input("Digite: "))
+#     vetor.append(n)
+#     vetor1 = [j for pos, j in enumerate(vetor) if pos != vetor.index(j)]
+# print(vetor)
+# print(vetor1)
 
 # Exercicio 6
 
+# vetor = []
+# vetor1 = []
+# for i in range(0, 5):
+#     n = int(input("Digite: "))
+#     vetor.append(n)
+#     vetor1 = set(vetor)
+# print(vetor)
+# print(vetor1)
 
 # Exercicio 7
 
@@ -101,4 +117,5 @@ import random
 #print(vetor1)
 #print(vetor2)
 #print(vetor3)
+
 
